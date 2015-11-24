@@ -400,7 +400,7 @@
   
 - day: 57
   name: "Voyages: The Trans-Atlantic Slave Trade Database" 
-  link: http://www.slavevoyages.org/tast/index.faces
+  link: http://www.slavevoyages.org
   point_html: '<circle onclick="window.open(&#39;/jekyll/update/2014/08/17/day57/&#39;, &#39;_self&#39;)" onmouseover="style.fill=&#39;white&#39;" onmouseout="style.fill=&#39;#A00000&#39;" style="cursor: pointer" fill="#C00000" stroke="#A00000" stroke-miterlimit="10" cx="64" cy="40" r="1.5"/>'
   editor: Alex Gil
   writer: Site Info
